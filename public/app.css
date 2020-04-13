@@ -1,0 +1,19 @@
+.jumbotron{
+    padding-bottom: 0;
+  }
+  
+
+.form {
+      padding-bottom: 48px;
+}
+
+@media screen and (min-width: 1024px) {
+.paradigm {
+    background: transparent url(/paradigm.png) no-repeat center calc(90% + 300px);
+    padding-bottom:100px;
+}
+}
+
+.bg-danger {
+padding: 15px;
+}

@@ -46,7 +46,7 @@ GEM
     netrc (0.11.0)
     opus-ruby (1.0.1)
       ffi
-    rack (2.2.3)
+    rack (2.2.6.2)
     rack-protection (2.0.7)
       rack
     rbnacl (3.4.0)
